@@ -1,0 +1,52 @@
+body {
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 28px;
+	background-image: url("https://www.jakpost.travel/imgfiles/full/106/1069265/ombre-wallpaper-hd.jpg");
+	background-size: cover;
+	font-family: Arial, Helvetica, sans-serif;
+
+	
+}
+
+
+h1 {
+	font-size: 60px;
+	font-weight: bold;
+	margin-bottom: -10px;
+}
+
+h2 {
+	font-size: 28px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	border-bottom-width: 2px;
+	border-bottom-style: outset;
+	border-bottom-color: white;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+h5 {
+	font-style: bold;
+	color: white;
+	font-size: 16px;
+	margin-bottom: -12px;
+	
+}
+
+
+li{
+	list-style: square;
+	line-height: 25px;
+}
+
+.contactInfo {
+
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-style: bold;
+	line-height: 10px;
+	color: white;
+
+}
